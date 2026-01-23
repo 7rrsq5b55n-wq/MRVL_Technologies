@@ -1,52 +1,37 @@
-# Privacy Policy — Drop Pilot
+# Drop Pilot Privacy Policy
 
-*Effective date:* [YYYY-MM-DD]
+**Last updated:** [PUT DATE HERE]
 
-Drop Pilot (“we”, “us”, “our”) helps delivery drivers plan and navigate multi-stop routes.
+Drop Pilot (“we”, “our”, “us”) is a delivery routing and navigation helper app.
 
-## What information we collect
-We aim to collect the minimum data needed for the app to work.
+## Data We Collect
+### Location
+- **When in use:** We use your device location to show your position on the map and calculate routes.
+- **Background (if enabled):** If you allow “Always” location, we may access location in the background to support navigation/trip tracking while the app is not on screen.
 
-### Location data
-•⁠  ⁠*When in use:* We use your location to show your position on the map and to create routes from your current position.
-•⁠  ⁠*Background (optional):* If you enable background location, we may use it to keep navigation/route tracking working when the app is not in the foreground.
+### Stops / Addresses You Enter
+We process the addresses/stops you import or type to:
+- geocode addresses into coordinates
+- calculate routes and ETAs
 
-### User-provided data
-•⁠  ⁠Addresses you enter, paste, or import (e.g., via CSV) are used to geocode and generate routes.
+## How We Use Data
+We use data only to provide app functionality:
+- mapping, routing, and navigation
+- route optimization and route summaries
 
-### Diagnostics
-We may collect basic crash logs and performance diagnostics provided by the operating system to improve stability.
+## Third-Party Services
+Drop Pilot uses Google APIs (e.g., Maps, Geocoding, Directions) to calculate routes and display maps. Those services may receive address/location data necessary to fulfill requests.
 
-## How we use information
-We use information to:
-•⁠  ⁠Show your current position on the map
-•⁠  ⁠Convert addresses into coordinates (geocoding)
-•⁠  ⁠Generate routes and estimated ETAs (including traffic, if available)
-•⁠  ⁠Improve performance and fix bugs
+## Data Storage
+- Stops and route data may be stored locally on your device (e.g., for rounds/history).
+- We do not sell your personal data.
 
-## Sharing of information
-We do not sell your personal data.
+## Sharing
+We do not share your personal data with third parties except as required to provide core features (e.g., mapping/routing providers).
 
-We may share limited data with service providers *only to provide app functionality*, such as:
-•⁠  ⁠*Google Maps Platform APIs* (geocoding/directions) when you request routing features.
-
-## Data retention
-•⁠  ⁠Addresses and stops may be stored on your device to support your route history.
-•⁠  ⁠We do not intentionally store your location history on our servers (unless you add a backend later).
-
-## Your choices
-•⁠  ⁠You can disable location permissions in iOS Settings.
-•⁠  ⁠If you disable location permissions, some features (map position, routing from your current location) may not work.
-
-## Children’s privacy
-Drop Pilot is not intended for children under 13.
-
-## Security
-We use reasonable safeguards to protect your information. No method of transmission or storage is 100% secure.
+## Your Choices
+- You can deny location permission, but route/navigation features may not work fully.
+- You can disable background location in iOS Settings at any time.
 
 ## Contact
-If you have questions, contact us:
-•⁠  ⁠Email: [YOUR SUPPORT EMAIL]
-
-## Changes
-We may update this policy from time to time. We’ll update the effective date above when changes are made.
+If you have questions, contact: **[YOUR EMAIL HERE]**
