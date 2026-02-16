@@ -73,7 +73,7 @@ We use reasonable administrative, technical, and physical safeguards designed to
 
 8. Children’s Privacy
 
-Our Apps are not intended for children under 13, and we do not knowingly collect personal information from children.
+Our Apps are not directed to children, and we do not knowingly collect personal information from children. If you believe a child has provided us personal information, contact us and we will delete
 
 9. Contact
 
